@@ -4,6 +4,7 @@ PRODID:-//Selkirk Sport//NONSGML Advocate Onboarding//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
+UID:advocate-onboarding-webinar-selkirk@selkirk.com
 SUMMARY:Advocate Onboarding Webinar
 DTSTART:20261006T160000Z
 DTEND:20261006T170000Z
