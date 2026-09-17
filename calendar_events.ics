@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventExtractor//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Advocate Onboarding Webinar
+BEGIN:VEVENT
+UID:1789671443564qcsinl5n@event-extractor.com
+DTSTAMP:20260917T185723Z
+DTSTART;TZID=America/Los_Angeles:20261006T090000
+DTEND;TZID=America/Los_Angeles:20261006T100000
+SUMMARY:Advocate Onboarding Webinar
+RRULE:FREQ=MONTHLY;INTERVAL=1
+DESCRIPTION:Join the Selkirk Advocate Monthly Onboarding Webinar!\n\nAre you ready to elevate your game, grow your local pickleball community, and unlock the full power of your Selkirk sponsorship? Join us for our live Monthly Advocate Onboarding Webinar! Held on the first Tuesday of every month from 9:00 AM – 10:00 AM PT, this interactive session is designed specifically for newly onboarded Advocates to hit the ground running.\n\nConnect directly with your onboarding cohort, interact live with the Selkirk team, and discover how to maximize your impact on and off the court.\nWhat We’ll Cover:\n1. The Selkirk Brand & Mission: Learn about our roots as a family-owned, pickleball-obsessed brand pushing the boundaries of innovation.\n2. Program Overview & Milestones: Understand your benefits, timeline requirements, and how to qualify for sponsorship renewal.\n3. Essential Tool Demonstrations: Get a guided tour of the Team Selkirk App, UpPromote referral tracking, and the Partners Account.\n4. Exclusive Resources & Reminders: Discover print materials, the private Facebook group, the AI-powered Paddle Fit Assistant, and key policy guidelines.\n5. Live Q&A & Polls: Bring your questions and get real-time answers from the team.\n\nHow to Join: Ready to dive in? Click the livestream link below at the start of the event to enter the webinar:\n\n👉 https://stream.meet.google.com/stream/fc959198-a99c-46a6-9153-9a123d3958f9\n\nBring your energy, meet your fellow Advocates, and let's grow the sport together!
+LOCATION:https://stream.meet.google.com/stream/fc959198-a99c-46a6-9153-9a123d3958f9
+END:VEVENT
+END:VCALENDAR
